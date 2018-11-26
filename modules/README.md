@@ -10,3 +10,4 @@ Módulos/partes:
   - LFO (Low Frequency Oscillator)
   - Secuenciador
   - Midi 2 CV
+  - Interfaz CV
